@@ -8,8 +8,16 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='text-5xl text-red-600'>tailwinds  working</h1>
-      <button className='btn'>daisy working</button>
+      <h1 className="text-3xl font-bold underline">
+      Hello world!
+      </h1>
+      <button className='btn'>hi daisy</button>
+      <div className="mockup-phone border-primary">
+  <div className="camera"></div> 
+  <div className="display">
+    <div className="artboard artboard-demo phone-1">Hi.</div>
+  </div>
+</div>
     </div>
   )
 }
