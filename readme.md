@@ -5,6 +5,8 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm i daisyui
 npm i firebase
+npm install recharts
+npm install @heroicons/react
 
 ***install-package
 1. Tailwindcss
@@ -12,3 +14,4 @@ npm i firebase
 3. React router
 4. Recharts 
 5. Hero Icon
+6. firebase
