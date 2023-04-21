@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App";
 import "./index.css";
 import Layouts from "./Components/Layout/Layouts";
 import ErrorPage from "./Components/ErrorPage/ErrorPage";
