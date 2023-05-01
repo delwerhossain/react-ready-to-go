@@ -10,7 +10,7 @@ npx tailwindcss init -p
 npm i daisyui
 npm i firebase
 npm install recharts
-npm install @heroicons/react
+npm install react-icons --save
 ```
 
 ***install-package
