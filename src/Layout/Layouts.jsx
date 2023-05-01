@@ -1,6 +1,7 @@
 import React, { createContext } from 'react';
 import { Link, NavLink, Outlet } from "react-router-dom";
-import Navbar from '../Navbar/Navbar';
+import Navbar from '../pages/common/Navbar/Menu';
+
 let menuList = [
   { title: "Home", link: "/", id: 1 },
   { title: "Contact", link: "/contact", id: 2 },
