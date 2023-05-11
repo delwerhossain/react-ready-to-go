@@ -20,3 +20,14 @@ npm install react-icons --save
 4. Recharts 
 5. Hero Icon
 6. firebase
+
+## full line
+```
+npm install react-router-dom localforage match-sorter sort-by 
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i daisyui
+npm i firebase
+npm install recharts
+npm install react-icons --save
+```
